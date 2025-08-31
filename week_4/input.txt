@@ -1,0 +1,5 @@
+this file explains error handling
+The exception errors
+How to handle errors to avoid
+execution error.
+lets handle files
