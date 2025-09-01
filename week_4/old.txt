@@ -1,0 +1,8 @@
+the program asks for a filename.
+
+it tries to open and read it.
+
+if successful, it modifies the text.
+
+it writes the modified content into a new file called new.txt.
+if the file doesn’t exist or can’t be read, it handles the error gracefully.

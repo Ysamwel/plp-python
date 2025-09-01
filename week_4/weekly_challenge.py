@@ -1,4 +1,7 @@
 # with automatically closes a file
+# Read file
+# count words
+# convert to uppercase
 
 
 with open('input.txt', 'r') as f:
